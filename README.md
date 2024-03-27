@@ -13,7 +13,7 @@ https://github.com/evgenyneu/keychain-swift.git
 
 
 // my HakobGhlijyn
-//MARK: 3 - MY Use @propertyWrapper Keychain for save password
+//MARK: 3 - MY Use local @propertyWrapper Keychain for save password
 
 <div id="stat" align="center">
  
